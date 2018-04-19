@@ -1,6 +1,6 @@
 /*!
- * froala_editor v2.7.1 (https://www.froala.com/wysiwyg-editor)
- * License https://froala.com/wysiwyg-editor/terms/
+ * froala_editor v2.7.1 (https://www.example.com/wysiwyg-editor)
+ * License https://example.com/wysiwyg-editor/terms/
  * Copyright 2014-2017 Froala Labs
  */
 

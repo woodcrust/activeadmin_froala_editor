@@ -25,7 +25,7 @@ Why 2 separated scripts? In this way you can include a different version of *fro
 
 ## Options
 
-**data-options**: permits to set *froala editor* options directly - see [options list](https://www.froala.com/wysiwyg-editor/docs/options)
+**data-options**: permits to set *froala editor* options directly - see [options list](https://www.example.com/wysiwyg-editor/docs/options)
 
 ## Examples
 
